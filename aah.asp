@@ -49,3 +49,4 @@ end if
 </html>
 <% set rs=nothing
 call fecha_conexao %>
+<Duda>
